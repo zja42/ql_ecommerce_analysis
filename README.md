@@ -41,16 +41,15 @@
 
 > R 模型交叉验证：PageValues 是最强预测变量（p<2.3e-155），与 SQL 结论一致 —— **SQL + 统计建模双工具互证**。
 
-![关键发现](figures/key_findings.svg)
+![关键发现](key_findings.svg)
 
 ## 仓库结构
 ```
 ├── README.md        # 项目说明（本文件）
 ├── 01_setup.sql     # 建表 + 数据导入
 ├── 02_analysis.sql  # 5 个专题 + 窗口函数进阶
-├── 03_model.R       # R 逻辑回归 + 10折交叉验证
-        
-    └── key_findings.svg
+├── 03_model.R       # R 逻辑回归 + 10折交叉验证     
+├── key_findings.svg
 ```
 
 ## 快速开始
