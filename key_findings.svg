@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 560" font-family="Segoe UI, Arial, sans-serif">
+<rect width="920" height="560" fill="#ffffff"/>
+<text x="30" y="38" font-size="19" font-weight="600" fill="#1a1a2e">在线购物用户转化分析 · 关键发现（UCI 数据集 n=12,330）</text>
+<text x="30" y="78" font-size="15" fill="#333">① 转化率：新客 vs 回访客 vs 整体</text>
+<rect x="80" y="390.0" width="70" height="80.0" fill="#7aa6f0" rx="3"/><text x="115" y="382.0" font-size="14" fill="#222" text-anchor="middle">~8%</text><text x="115" y="490" font-size="13" fill="#444" text-anchor="middle">新客</text>
+<rect x="200" y="270.0" width="70" height="200.0" fill="#2e8b57" rx="3"/><text x="235" y="262.0" font-size="14" fill="#222" text-anchor="middle">~20%</text><text x="235" y="490" font-size="13" fill="#444" text-anchor="middle">回访客</text>
+<rect x="320" y="315.0" width="70" height="155.0" fill="#444" rx="3"/><text x="355" y="307.0" font-size="14" fill="#222" text-anchor="middle">15.5%</text><text x="355" y="490" font-size="13" fill="#444" text-anchor="middle">整体</text>
+<text x="80" y="525" font-size="12" fill="#666">回访客转化率约为新客的 2–3 倍（文献一致）</text>
+<text x="560" y="78" font-size="15" fill="#333">② 转化信号强度（均值对比）</text>
+<text x="560" y="104" font-size="13" fill="#333">PageValues 页面价值</text><rect x="560" y="110" width="260.0" height="22" fill="#2e8b57" rx="2"/><text x="826.0" y="126" font-size="12" fill="#222">转化组均值 显著更高</text><rect x="560" y="140" width="90.0" height="22" fill="#ccc" rx="2"/><text x="656.0" y="156" font-size="12" fill="#222">未转化组 低</text>
+<text x="560" y="194" font-size="13" fill="#333">ExitRates 跳出率</text><rect x="560" y="200" width="90.0" height="22" fill="#2e8b57" rx="2"/><text x="656.0" y="216" font-size="12" fill="#222">转化组 更低</text><rect x="560" y="230" width="230.0" height="22" fill="#ccc" rx="2"/><text x="796.0" y="246" font-size="12" fill="#222">未转化组 高</text>
+<text x="30" y="540" font-size="12" fill="#888">结论来源：UCI Online Shoppers 公开统计 + SQL/R 双工具复现 · 精确值见脚本输出</text>
+</svg>
