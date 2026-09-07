@@ -49,7 +49,7 @@
 ├── 01_setup.sql     # 建表 + 数据导入
 ├── 02_analysis.sql  # 5 个专题 + 窗口函数进阶
 ├── 03_model.R       # R 逻辑回归 + 10折交叉验证
-└── figures/         # 结论图（README 自动渲染）
+        
     └── key_findings.svg
 ```
 
